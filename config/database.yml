@@ -49,6 +49,6 @@ test:
   encoding: unicode
   database: book_list_api_test
   pool: 5
-  username: brenden
+  username: andras
   password:
   timeout: 5000
