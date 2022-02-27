@@ -1,4 +1,4 @@
 class Author < ApplicationRecord
   has_many :books
-  has_many :gemres, through :books
+  has_many :genres, through: :books
 end
